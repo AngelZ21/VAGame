@@ -21,9 +21,7 @@
 			"Enabled": true
 		},
 		{
-			"Name": "AAA_HealthSystem",
-			"Enabled": true,
-			"MarketplaceURL": "https://www.fab.com/listings/c39672c7-a46f-4e33-be6e-6fcb85ea0f783"
+
 		},
 		{
 			"Name": "OnlineSubsystemEOS",
@@ -39,4 +37,5 @@
 			"Enabled": true
 		}
 	]
+
 }
